@@ -25,7 +25,9 @@ This work will be based on health information that represents almost everyone cu
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-> Links to follow once outputs have been submitted to a preprint server and/or submitted to a journal.
+* [Digital ethnicity data in population-wide electronic health records in England: a description of completeness, coverage, and granularity of diversity](https://github.com/BHFDSC/CCU037_01)
+
+> Links to repositories for additional outputs will follow in due course.
 
 ## Project approval
 
