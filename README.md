@@ -26,7 +26,7 @@ This work will be based on health information that represents almost everyone cu
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
 * [CCU037_01: Ethnicity data resource in population-wide health records: completeness, coverage and granularity of diversity](https://github.com/BHFDSC/CCU037_01)
-* [CCU037_02: Women’s health and ethnic disparities: a population-wide analysis of 3.6 million digital health records for mortality and cardiovascular risk in women diagnosed with COVID-19](https://github.com/BHFDSC/CCU037_02)
+* [CCU037_02: Ethnic disparities in COVID-19 mortality and cardiovascular disease in England and Wales between 2020-2022](https://github.com/BHFDSC/CCU037_02)
 
 > Links to repositories for additional outputs will follow in due course.
 
